@@ -1,0 +1,6 @@
+[submodule "api-node-react-backend"]
+	path = api-node-react-backend
+	url = https://github.com/hakki13420/api-node-react-backend
+[submodule "api-node-react-frontend"]
+	path = api-node-react-frontend
+	url = https://github.com/hakki13420/api-node-react-frontend
